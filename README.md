@@ -17,9 +17,9 @@ Total Orders: 3,900
 Average Order Value (AOV): $59.76
 
 Average Customer Rating: 3.75/5.0
-<img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/4e330205-ecbc-47fc-93e4-5feebc75b005" />
 
-## 4. Dashboard Breakdown (Visual Analysis)
+# 4. Dashboard Breakdown (Visual Analysis)
+<img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/4e330205-ecbc-47fc-93e4-5feebc75b005" />
 Page 1: Executive Overview
 Focus: High-level financial performance and geographical trends.
 
@@ -30,9 +30,10 @@ Total Sales by Season (Line Chart): Shows a clear peak in Fall and a decline in 
 Total Sales by Location (Bar Chart): Highlights top-performing states like Montana and Illinois, allowing for targeted regional marketing.
 
 Total Sales by Promo Code Used (Donut Chart): Visualizes the impact of discounts. Interestingly, a significant portion of sales occurs without promo codes, suggesting strong organic demand.
+
+#Page 2: Customer & Inventory Insights
 <img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/f4709f49-1f6a-4502-859a-9507d848baef" />
 
-##Page 2: Customer & Inventory Insights
 Focus: Demographics and stock preferences.
 
 Total Sales by Age Group (Bar Chart): Categorizes customers into "Youth", "Adult", and "Middle Age". The Middle Age (41-60) group is identified as the highest-spending segment.
@@ -44,14 +45,16 @@ Total Sales by Frequency of Purchases (Treemap): Breaks down how often customers
 Color and Size Matrix (Stacked Bar): A granular look at inventory. It shows that Medium (M) size in colors like Silver and Teal are top sellers.
 <img width="1322" height="738" alt="image" src="https://github.com/user-attachments/assets/5f7e23dc-6a5c-4d73-b7f2-1db4707c299e" />
 
-##Page 3: "Why" Analysis (Decomposition Tree)
+#Page 3: "Why" Analysis (Decomposition Tree)
+<img width="1322" height="738" alt="image" src="https://github.com/user-attachments/assets/5f7e23dc-6a5c-4d73-b7f2-1db4707c299e" />
+
 Focus: Root cause analysis and data drilling.
 
 The Decomposition Tree: This is the most advanced part of the dashboard. It allows users to "deconstruct" the total sales by clicking through different dimensions.
 
 Path: Total Sales ➔ Age Group ➔ Gender ➔ Payment Method ➔ Category ➔ Size.
 
-##4. Business Recommendations
+#4. Business Recommendations
 Targeted Marketing: Focus ad spend on the 41-60 age demographic.
 
 Summer Strategy: Launch a summer-specific collection or heavy promotions to bridge the seasonal sales gap.
