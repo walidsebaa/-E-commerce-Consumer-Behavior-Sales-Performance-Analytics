@@ -31,7 +31,7 @@ Total Sales by Location (Bar Chart): Highlights top-performing states like Monta
 
 Total Sales by Promo Code Used (Donut Chart): Visualizes the impact of discounts. Interestingly, a significant portion of sales occurs without promo codes, suggesting strong organic demand.
 
-#Page 2: Customer & Inventory Insights
+# Page 2: Customer & Inventory Insights
 <img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/f4709f49-1f6a-4502-859a-9507d848baef" />
 
 Focus: Demographics and stock preferences.
@@ -43,9 +43,8 @@ Subscription Status (Donut Chart): Compares sales from subscribers vs. non-subsc
 Total Sales by Frequency of Purchases (Treemap): Breaks down how often customers return. "Every 3 Months" and "Annually" are the most common patterns.
 
 Color and Size Matrix (Stacked Bar): A granular look at inventory. It shows that Medium (M) size in colors like Silver and Teal are top sellers.
-<img width="1322" height="738" alt="image" src="https://github.com/user-attachments/assets/5f7e23dc-6a5c-4d73-b7f2-1db4707c299e" />
 
-#Page 3: "Why" Analysis (Decomposition Tree)
+# Page 3: "Why" Analysis (Decomposition Tree)
 <img width="1322" height="738" alt="image" src="https://github.com/user-attachments/assets/5f7e23dc-6a5c-4d73-b7f2-1db4707c299e" />
 
 Focus: Root cause analysis and data drilling.
@@ -54,7 +53,7 @@ The Decomposition Tree: This is the most advanced part of the dashboard. It allo
 
 Path: Total Sales ➔ Age Group ➔ Gender ➔ Payment Method ➔ Category ➔ Size.
 
-#4. Business Recommendations
+# 4. Business Recommendations
 Targeted Marketing: Focus ad spend on the 41-60 age demographic.
 
 Summer Strategy: Launch a summer-specific collection or heavy promotions to bridge the seasonal sales gap.
