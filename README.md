@@ -20,7 +20,7 @@ Average Customer Rating: 3.75/5.0
 
 # . Dashboard Breakdown (Visual Analysis)
 <img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/4e330205-ecbc-47fc-93e4-5feebc75b005" />
-# Page 1: Executive Overview
+#  Page 1: Executive Overview
 Focus: High-level financial performance and geographical trends.
 
 KPI Cards: Displayed at the top to give an immediate pulse of the business (Sales, Orders, Rating, AOV).
