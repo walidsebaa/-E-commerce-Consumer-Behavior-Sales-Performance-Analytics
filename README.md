@@ -2,14 +2,14 @@
 Developed an interactive multi-page Power BI dashboard to transform retail sales data into actionable strategic insights, focusing on revenue growth and customer retention.
 Retail Sales Analysis Dashboard (Power BI)
 
-# 2. Client Background
+# 1. Client Background
 Industry: E-commerce / Retail.
 
 Product Range: Clothing, Accessories, Footwear, and Outerwear.
 
 Objective: To identify key revenue drivers and optimize marketing strategies based on customer demographics and purchasing patterns.
 
-# 3. Key Performance Indicators (Northstar Metrics)
+# 2. Key Performance Indicators (Northstar Metrics)
 Total Sales: $233,081
 
 Total Orders: 3,900
@@ -18,9 +18,9 @@ Average Order Value (AOV): $59.76
 
 Average Customer Rating: 3.75/5.0
 
-# 4. Dashboard Breakdown (Visual Analysis)
+# . Dashboard Breakdown (Visual Analysis)
 <img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/4e330205-ecbc-47fc-93e4-5feebc75b005" />
-Page 1: Executive Overview
+# Page 1: Executive Overview
 Focus: High-level financial performance and geographical trends.
 
 KPI Cards: Displayed at the top to give an immediate pulse of the business (Sales, Orders, Rating, AOV).
@@ -53,7 +53,7 @@ The Decomposition Tree: This is the most advanced part of the dashboard. It allo
 
 Path: Total Sales ➔ Age Group ➔ Gender ➔ Payment Method ➔ Category ➔ Size.
 
-# 4. Business Recommendations
+# 2. Business Recommendations
 Targeted Marketing: Focus ad spend on the 41-60 age demographic.
 
 Summer Strategy: Launch a summer-specific collection or heavy promotions to bridge the seasonal sales gap.
